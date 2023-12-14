@@ -1,6 +1,6 @@
 from processes import Process
 
-def FCFS(processes):
+def SJF(processes):
     queue=[]
     occupied =False
     executed_processes=[]
@@ -15,6 +15,7 @@ def FCFS(processes):
                 else:
                     queue.append(proc)
         if queue:
+            processes.sort(lambda x: x.burst_time)
             next_proccess = queue.pop(0)
             executed_processes.append(next_proccess)
             occupied=True
@@ -24,10 +25,9 @@ def FCFS(processes):
 
 
 if __name__ == "__main__":
-
     proces1 = Process("a", 1, 3)
-    proces2 = Process("b", 90, 9)
-    proces3 = Process("c", 36, 1)
-    proces4 = Process("d", 104, 2)
-    scheduled_processes = FCFS([proces1, proces2, proces3, proces4])
+    proces2 = Process("b", 5, 9)
+    proces3 = Process("c", 4, 1)
+    proces4 = Process("d", 9, 2)
+    scheduled_processes = SJF([proces1, proces2, proces3, proces4])
 
