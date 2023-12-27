@@ -1,5 +1,5 @@
 from processes import Process
-
+from generator import Generator
 def FCFS(processes):
     queue=[]
     occupied =False
@@ -18,16 +18,27 @@ def FCFS(processes):
             next_proccess = queue.pop(0)
             executed_processes.append(next_proccess)
             occupied=True
-            print(f"Process {proc.name} executed at time {time}")
+            print(f"Process {next_proccess.name} executed at time {time}")
         occupied=False
     return executed_processes
 
 
 if __name__ == "__main__":
+    num_processes = int(input("Enter the number of processes: "))
+    a = int(input("Enter the lowest border of arrival_time: "))
+    b = int(input("Enter the highest border of arrival_time: "))
+    c = int(input("Enter the lowest border of burst_time: "))
+    d = int(input("Enter the highest border of burst_time: "))
 
-    proces1 = Process("a", 1, 3)
-    proces2 = Process("b", 90, 9)
-    proces3 = Process("c", 36, 1)
-    proces4 = Process("d", 104, 2)
-    scheduled_processes = FCFS([proces1, proces2, proces3, proces4])
+        # Ensure the upper bound is greater than or equal to the lower bound for both arrival_time and burst_time
+    while b < a or d < c:
+        print("Invalid input. Please make sure the upper bound is greater than or equal to the lower bound.")
+        a = int(input("Enter the lowest border of arrival_time: "))
+        b = int(input("Enter the highest border of arrival_time: "))
+        c = int(input("Enter the lowest border of burst_time: "))
+        d = int(input("Enter the highest border of burst_time: "))
 
+    generator_instance = Generator()
+    processes_to_schedule = generator_instance.generator(num_processes,a,b,c,d)
+
+    scheduled_processes = FCFS(processes_to_schedule)

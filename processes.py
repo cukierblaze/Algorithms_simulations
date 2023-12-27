@@ -1,3 +1,4 @@
+
 class Process:
     def __init__(self,name,arrival_time,burst_time):
         self.name=name
