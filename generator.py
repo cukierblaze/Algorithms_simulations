@@ -2,12 +2,13 @@
 from processes import Process
 import random
 class Generator:
-    def generator(self, num_processes,a,b,c,d):
+    @staticmethod
+    def generator(num_processes,arrival_min,arrival_max,burst_min,burst_max):
         processes = []
         for i in range(num_processes):
             name = i+1
-            arrival_time = random.randint(a, b)  # Adjust the range based on your requirements
-            burst_time = random.randint(c, d)  # Adjust the range based on your requirements
+            arrival_time = random.randint(arrival_min, arrival_max)
+            burst_time = random.randint(burst_min, burst_max)
             processes.append(Process(name, arrival_time, burst_time))
         return processes
 

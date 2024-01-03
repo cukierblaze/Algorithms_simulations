@@ -1,5 +1,5 @@
 class Frame:
-    def __init__(self):
+    def __init__(self,index=None):
         self.page = None
         self.index = 0
         self.last_used_time = -1
