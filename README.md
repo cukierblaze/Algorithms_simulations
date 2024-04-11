@@ -1,4 +1,4 @@
-# Algorithms_simulations
+# Simulations
 **Processes simulators of replacing pages and scheduling CPU time.**
 ## Table of Contents
 
