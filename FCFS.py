@@ -1,33 +1,50 @@
 from processes import Process
 
+
 def FCFS(processes):
-    queue=[]
-    occupied =False
-    executed_processes=[]
 
-    for time in range(1,sum(p.burst_time + p.arrival_time for p in processes) + 1):
-        for proc in processes:
-            if proc.arrival_time <= time and proc not in executed_processes:
-                if not occupied:
-                    executed_processes.append(proc)
-                    occupied = True
-                    print(f"Process {proc.name} executed at time {time}")
+    not_done = len(processes)
+    waiting_sum = 0
+    time = 0
+    queue = []
+    executing = None
+    burst = None
+
+    # Simulating working processor
+    while not_done > 0:
+
+        # Checking whether any process arrived
+        for process in processes:
+            if process.arrival == time:
+
+                # Adding to queue if occupied
+                if executing:
+                    queue.append(process)
+
+                # If not occupied starts executing a new process
                 else:
-                    queue.append(proc)
-        if queue:
-            next_proccess = queue.pop(0)
-            executed_processes.append(next_proccess)
-            occupied=True
-            print(f"Process {proc.name} executed at time {time}")
-        occupied=False
-    return executed_processes
+                    executing = process
+                    burst = process.burst
 
+        # Finishing a process when it's done
+        if burst == 0:
 
-if __name__ == "__main__":
+            not_done -= 1
+            executing.set_finish(time)
+            waiting_sum += executing.waiting
+            executing = None
+            burst = None
 
-    proces1 = Process("a", 1, 3)
-    proces2 = Process("b", 90, 9)
-    proces3 = Process("c", 36, 1)
-    proces4 = Process("d", 104, 2)
-    scheduled_processes = FCFS([proces1, proces2, proces3, proces4])
+            # If there are any processes in queue, starting to execute the first one
+            if queue:
+                executing = queue.pop(0)
+                burst = executing.burst
+
+        if burst:
+            burst -= 1
+
+        time += 1
+
+    # Returning average time of waiting
+    return waiting_sum/len(processes)
 
