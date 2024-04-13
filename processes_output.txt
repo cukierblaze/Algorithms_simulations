@@ -1,0 +1,3953 @@
+C:\Users\wikto\.virtualenvs\pythonProject1\Scripts\python.exe C:\Users\wikto\PycharmProjects\pythonProject1\systemy1\processes_tests.py 
+
+
+Output nr:  1
+
+10 processes with arrival time 0 and burst from 1 to to 5
+
+Processes:
+
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+
+
+Average FCFS waiting time:  16.5
+
+Average SJF waiting time:  10.9
+
+Average FCFS and SJF burst time:  3.3
+
+50 processes with arrival time 0 and burst from 1 to to 5
+
+Processes:
+
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+
+
+Average FCFS waiting time:  76.64
+
+Average SJF waiting time:  53.86
+
+Average FCFS and SJF burst time:  2.96
+
+100 processes with arrival time 0 and burst from 1 to to 5
+
+
+Processes:
+
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+
+
+Average FCFS waiting time:  151.22
+
+Average SJF waiting time:  118.23
+
+Average FCFS and SJF burst time:  3.16
+
+10 processes with arrival time from 0 to 10 and burst 5
+
+Processes:
+
+Process with arrival:  6  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  9  and burst:  5
+
+
+Average FCFS waiting time:  17.5
+
+Average SJF waiting time:  17.5
+
+Average FCFS and SJF burst time:  5.0
+
+50 processes with arrival time from 0 to 10 and burst 5
+
+Processes:
+
+Process with arrival:  1  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  2  and burst:  5
+
+
+Average FCFS waiting time:  117.92
+
+Average SJF waiting time:  117.92
+
+Average FCFS and SJF burst time:  5.0
+
+100 processes with arrival time from 0 to 10 and burst 5
+
+
+Processes:
+
+Process with arrival:  4  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  10  and burst:  5
+
+
+Average FCFS waiting time:  242.77
+
+Average SJF waiting time:  242.77
+
+Average FCFS and SJF burst time:  5.0
+
+10 processes with arrival time from 0 to 10 and burst from 1 to to 10
+
+Processes:
+
+Process with arrival:  1  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  2  and burst:  2
+Process with arrival:  1  and burst:  4
+Process with arrival:  9  and burst:  10
+Process with arrival:  5  and burst:  5
+Process with arrival:  0  and burst:  8
+Process with arrival:  1  and burst:  10
+Process with arrival:  10  and burst:  1
+Process with arrival:  9  and burst:  10
+
+
+Average FCFS waiting time:  20.6
+
+Average SJF waiting time:  13.3
+
+Average FCFS and SJF burst time:  5.7
+
+50 processes with arrival time from 0 to 10 and burst from 1 to to 10
+
+Processes:
+
+Process with arrival:  9  and burst:  7
+Process with arrival:  5  and burst:  9
+Process with arrival:  9  and burst:  4
+Process with arrival:  6  and burst:  10
+Process with arrival:  8  and burst:  8
+Process with arrival:  4  and burst:  4
+Process with arrival:  4  and burst:  5
+Process with arrival:  3  and burst:  8
+Process with arrival:  0  and burst:  1
+Process with arrival:  1  and burst:  5
+Process with arrival:  10  and burst:  4
+Process with arrival:  5  and burst:  9
+Process with arrival:  7  and burst:  7
+Process with arrival:  10  and burst:  7
+Process with arrival:  9  and burst:  1
+Process with arrival:  8  and burst:  4
+Process with arrival:  4  and burst:  3
+Process with arrival:  8  and burst:  8
+Process with arrival:  9  and burst:  8
+Process with arrival:  10  and burst:  2
+Process with arrival:  7  and burst:  10
+Process with arrival:  6  and burst:  3
+Process with arrival:  1  and burst:  4
+Process with arrival:  3  and burst:  6
+Process with arrival:  9  and burst:  5
+Process with arrival:  3  and burst:  9
+Process with arrival:  2  and burst:  3
+Process with arrival:  4  and burst:  10
+Process with arrival:  0  and burst:  9
+Process with arrival:  7  and burst:  4
+Process with arrival:  1  and burst:  8
+Process with arrival:  6  and burst:  10
+Process with arrival:  10  and burst:  6
+Process with arrival:  6  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  9  and burst:  4
+Process with arrival:  4  and burst:  1
+Process with arrival:  9  and burst:  4
+Process with arrival:  8  and burst:  9
+Process with arrival:  7  and burst:  8
+Process with arrival:  10  and burst:  1
+Process with arrival:  4  and burst:  9
+Process with arrival:  7  and burst:  3
+Process with arrival:  8  and burst:  7
+Process with arrival:  1  and burst:  1
+Process with arrival:  9  and burst:  9
+Process with arrival:  3  and burst:  5
+Process with arrival:  9  and burst:  10
+Process with arrival:  1  and burst:  9
+Process with arrival:  9  and burst:  2
+
+
+Average FCFS waiting time:  140.52
+
+Average SJF waiting time:  97.1
+
+Average FCFS and SJF burst time:  5.86
+
+100 processes with arrival time from 0 to 10 and burst from 1 to to 10
+
+
+Processes:
+
+Process with arrival:  5  and burst:  8
+Process with arrival:  6  and burst:  8
+Process with arrival:  5  and burst:  9
+Process with arrival:  2  and burst:  8
+Process with arrival:  3  and burst:  10
+Process with arrival:  0  and burst:  3
+Process with arrival:  8  and burst:  1
+Process with arrival:  4  and burst:  3
+Process with arrival:  6  and burst:  5
+Process with arrival:  7  and burst:  9
+Process with arrival:  10  and burst:  4
+Process with arrival:  5  and burst:  8
+Process with arrival:  3  and burst:  7
+Process with arrival:  5  and burst:  3
+Process with arrival:  8  and burst:  4
+Process with arrival:  4  and burst:  8
+Process with arrival:  5  and burst:  8
+Process with arrival:  7  and burst:  4
+Process with arrival:  3  and burst:  3
+Process with arrival:  5  and burst:  7
+Process with arrival:  3  and burst:  3
+Process with arrival:  3  and burst:  2
+Process with arrival:  2  and burst:  8
+Process with arrival:  8  and burst:  1
+Process with arrival:  1  and burst:  4
+Process with arrival:  4  and burst:  4
+Process with arrival:  8  and burst:  3
+Process with arrival:  3  and burst:  10
+Process with arrival:  2  and burst:  2
+Process with arrival:  8  and burst:  3
+Process with arrival:  0  and burst:  10
+Process with arrival:  6  and burst:  5
+Process with arrival:  10  and burst:  1
+Process with arrival:  8  and burst:  3
+Process with arrival:  4  and burst:  8
+Process with arrival:  1  and burst:  3
+Process with arrival:  6  and burst:  1
+Process with arrival:  8  and burst:  3
+Process with arrival:  9  and burst:  3
+Process with arrival:  7  and burst:  4
+Process with arrival:  7  and burst:  6
+Process with arrival:  6  and burst:  6
+Process with arrival:  3  and burst:  6
+Process with arrival:  10  and burst:  1
+Process with arrival:  4  and burst:  3
+Process with arrival:  8  and burst:  7
+Process with arrival:  1  and burst:  10
+Process with arrival:  8  and burst:  8
+Process with arrival:  7  and burst:  3
+Process with arrival:  8  and burst:  10
+Process with arrival:  3  and burst:  1
+Process with arrival:  0  and burst:  8
+Process with arrival:  3  and burst:  7
+Process with arrival:  10  and burst:  4
+Process with arrival:  9  and burst:  6
+Process with arrival:  6  and burst:  5
+Process with arrival:  7  and burst:  4
+Process with arrival:  3  and burst:  5
+Process with arrival:  10  and burst:  4
+Process with arrival:  9  and burst:  8
+Process with arrival:  0  and burst:  2
+Process with arrival:  2  and burst:  1
+Process with arrival:  8  and burst:  8
+Process with arrival:  2  and burst:  3
+Process with arrival:  6  and burst:  8
+Process with arrival:  1  and burst:  5
+Process with arrival:  9  and burst:  2
+Process with arrival:  0  and burst:  6
+Process with arrival:  4  and burst:  3
+Process with arrival:  1  and burst:  6
+Process with arrival:  9  and burst:  10
+Process with arrival:  2  and burst:  5
+Process with arrival:  6  and burst:  7
+Process with arrival:  8  and burst:  4
+Process with arrival:  7  and burst:  8
+Process with arrival:  4  and burst:  2
+Process with arrival:  3  and burst:  6
+Process with arrival:  7  and burst:  4
+Process with arrival:  7  and burst:  4
+Process with arrival:  3  and burst:  9
+Process with arrival:  2  and burst:  7
+Process with arrival:  5  and burst:  3
+Process with arrival:  1  and burst:  5
+Process with arrival:  0  and burst:  6
+Process with arrival:  6  and burst:  4
+Process with arrival:  9  and burst:  10
+Process with arrival:  1  and burst:  9
+Process with arrival:  0  and burst:  1
+Process with arrival:  3  and burst:  9
+Process with arrival:  10  and burst:  2
+Process with arrival:  3  and burst:  10
+Process with arrival:  0  and burst:  10
+Process with arrival:  2  and burst:  2
+Process with arrival:  4  and burst:  8
+Process with arrival:  6  and burst:  10
+Process with arrival:  10  and burst:  8
+Process with arrival:  5  and burst:  8
+Process with arrival:  8  and burst:  6
+Process with arrival:  6  and burst:  9
+Process with arrival:  1  and burst:  6
+
+
+Average FCFS waiting time:  274.21
+
+Average SJF waiting time:  187.19
+
+Average FCFS and SJF burst time:  5.49
+
+10 processes with arrival time from 0 to 100 and burst from 1 to to 100
+
+Processes:
+
+Process with arrival:  34  and burst:  47
+Process with arrival:  54  and burst:  49
+Process with arrival:  98  and burst:  15
+Process with arrival:  0  and burst:  43
+Process with arrival:  98  and burst:  6
+Process with arrival:  77  and burst:  76
+Process with arrival:  0  and burst:  99
+Process with arrival:  79  and burst:  74
+Process with arrival:  90  and burst:  56
+Process with arrival:  43  and burst:  75
+
+
+Average FCFS waiting time:  228.3
+
+Average SJF waiting time:  131.6
+
+Average FCFS and SJF burst time:  54.0
+
+50 processes with arrival time from 0 to 100 and burst from 1 to to 100
+
+Processes:
+
+Process with arrival:  7  and burst:  45
+Process with arrival:  8  and burst:  6
+Process with arrival:  4  and burst:  62
+Process with arrival:  6  and burst:  83
+Process with arrival:  9  and burst:  34
+Process with arrival:  3  and burst:  87
+Process with arrival:  1  and burst:  73
+Process with arrival:  4  and burst:  84
+Process with arrival:  8  and burst:  19
+Process with arrival:  1  and burst:  61
+Process with arrival:  2  and burst:  76
+Process with arrival:  2  and burst:  83
+Process with arrival:  7  and burst:  100
+Process with arrival:  5  and burst:  44
+Process with arrival:  8  and burst:  2
+Process with arrival:  10  and burst:  77
+Process with arrival:  7  and burst:  69
+Process with arrival:  9  and burst:  14
+Process with arrival:  9  and burst:  30
+Process with arrival:  4  and burst:  60
+Process with arrival:  1  and burst:  45
+Process with arrival:  10  and burst:  86
+Process with arrival:  2  and burst:  95
+Process with arrival:  6  and burst:  10
+Process with arrival:  1  and burst:  77
+Process with arrival:  9  and burst:  24
+Process with arrival:  3  and burst:  94
+Process with arrival:  4  and burst:  10
+Process with arrival:  0  and burst:  89
+Process with arrival:  2  and burst:  95
+Process with arrival:  0  and burst:  22
+Process with arrival:  0  and burst:  55
+Process with arrival:  3  and burst:  46
+Process with arrival:  0  and burst:  50
+Process with arrival:  1  and burst:  2
+Process with arrival:  3  and burst:  86
+Process with arrival:  2  and burst:  1
+Process with arrival:  1  and burst:  4
+Process with arrival:  3  and burst:  9
+Process with arrival:  2  and burst:  29
+Process with arrival:  2  and burst:  1
+Process with arrival:  8  and burst:  76
+Process with arrival:  5  and burst:  37
+Process with arrival:  10  and burst:  5
+Process with arrival:  10  and burst:  32
+Process with arrival:  0  and burst:  14
+Process with arrival:  3  and burst:  28
+Process with arrival:  1  and burst:  30
+Process with arrival:  0  and burst:  79
+Process with arrival:  4  and burst:  45
+
+
+Average FCFS waiting time:  1235.3
+
+Average SJF waiting time:  712.36
+
+Average FCFS and SJF burst time:  47.7
+
+100 processes with arrival time from 0 to 100 and burst from 1 to to 100
+
+Processes:
+
+Process with arrival:  55  and burst:  10
+Process with arrival:  83  and burst:  33
+Process with arrival:  33  and burst:  35
+Process with arrival:  28  and burst:  10
+Process with arrival:  81  and burst:  84
+Process with arrival:  17  and burst:  57
+Process with arrival:  28  and burst:  21
+Process with arrival:  85  and burst:  9
+Process with arrival:  90  and burst:  86
+Process with arrival:  49  and burst:  2
+Process with arrival:  60  and burst:  76
+Process with arrival:  2  and burst:  34
+Process with arrival:  17  and burst:  35
+Process with arrival:  2  and burst:  89
+Process with arrival:  87  and burst:  39
+Process with arrival:  70  and burst:  31
+Process with arrival:  7  and burst:  91
+Process with arrival:  83  and burst:  49
+Process with arrival:  73  and burst:  64
+Process with arrival:  31  and burst:  17
+Process with arrival:  23  and burst:  74
+Process with arrival:  89  and burst:  33
+Process with arrival:  75  and burst:  9
+Process with arrival:  36  and burst:  74
+Process with arrival:  53  and burst:  43
+Process with arrival:  95  and burst:  55
+Process with arrival:  56  and burst:  51
+Process with arrival:  64  and burst:  57
+Process with arrival:  68  and burst:  21
+Process with arrival:  51  and burst:  45
+Process with arrival:  2  and burst:  24
+Process with arrival:  93  and burst:  66
+Process with arrival:  18  and burst:  31
+Process with arrival:  58  and burst:  19
+Process with arrival:  28  and burst:  79
+Process with arrival:  52  and burst:  9
+Process with arrival:  53  and burst:  44
+Process with arrival:  75  and burst:  77
+Process with arrival:  100  and burst:  72
+Process with arrival:  92  and burst:  51
+Process with arrival:  32  and burst:  48
+Process with arrival:  49  and burst:  67
+Process with arrival:  22  and burst:  31
+Process with arrival:  40  and burst:  99
+Process with arrival:  27  and burst:  55
+Process with arrival:  19  and burst:  7
+Process with arrival:  8  and burst:  30
+Process with arrival:  45  and burst:  99
+Process with arrival:  4  and burst:  67
+Process with arrival:  33  and burst:  75
+Process with arrival:  64  and burst:  89
+Process with arrival:  84  and burst:  50
+Process with arrival:  1  and burst:  37
+Process with arrival:  10  and burst:  30
+Process with arrival:  73  and burst:  54
+Process with arrival:  2  and burst:  5
+Process with arrival:  81  and burst:  62
+Process with arrival:  27  and burst:  75
+Process with arrival:  62  and burst:  21
+Process with arrival:  95  and burst:  50
+Process with arrival:  67  and burst:  78
+Process with arrival:  55  and burst:  14
+Process with arrival:  23  and burst:  34
+Process with arrival:  74  and burst:  75
+Process with arrival:  56  and burst:  18
+Process with arrival:  35  and burst:  14
+Process with arrival:  79  and burst:  55
+Process with arrival:  62  and burst:  54
+Process with arrival:  56  and burst:  16
+Process with arrival:  99  and burst:  17
+Process with arrival:  7  and burst:  21
+Process with arrival:  30  and burst:  93
+Process with arrival:  19  and burst:  19
+Process with arrival:  49  and burst:  29
+Process with arrival:  50  and burst:  77
+Process with arrival:  21  and burst:  87
+Process with arrival:  53  and burst:  47
+Process with arrival:  61  and burst:  31
+Process with arrival:  75  and burst:  39
+Process with arrival:  44  and burst:  46
+Process with arrival:  91  and burst:  13
+Process with arrival:  48  and burst:  71
+Process with arrival:  60  and burst:  61
+Process with arrival:  4  and burst:  94
+Process with arrival:  41  and burst:  19
+Process with arrival:  48  and burst:  48
+Process with arrival:  56  and burst:  34
+Process with arrival:  83  and burst:  15
+Process with arrival:  92  and burst:  84
+Process with arrival:  16  and burst:  47
+Process with arrival:  94  and burst:  38
+Process with arrival:  59  and burst:  12
+Process with arrival:  99  and burst:  22
+Process with arrival:  74  and burst:  35
+Process with arrival:  24  and burst:  33
+Process with arrival:  3  and burst:  61
+Process with arrival:  15  and burst:  85
+Process with arrival:  87  and burst:  89
+Process with arrival:  69  and burst:  86
+Process with arrival:  9  and burst:  84
+
+
+Average FCFS waiting time:  2315.37
+
+Average SJF waiting time:  1543.79
+
+Average FCFS and SJF burst time:  47.52
+
+
+Output nr:  2
+
+10 processes with arrival time 0 and burst from 1 to to 5
+
+Processes:
+
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+
+
+Average FCFS waiting time:  10.6
+
+Average SJF waiting time:  10.4
+
+Average FCFS and SJF burst time:  3.2
+
+50 processes with arrival time 0 and burst from 1 to to 5
+
+Processes:
+
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+
+
+Average FCFS waiting time:  74.84
+
+Average SJF waiting time:  53.16
+
+Average FCFS and SJF burst time:  2.96
+
+100 processes with arrival time 0 and burst from 1 to to 5
+
+
+Processes:
+
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+
+
+Average FCFS waiting time:  140.67
+
+Average SJF waiting time:  103.53
+
+Average FCFS and SJF burst time:  2.89
+
+10 processes with arrival time from 0 to 10 and burst 5
+
+Processes:
+
+Process with arrival:  10  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  1  and burst:  5
+
+
+Average FCFS waiting time:  17.5
+
+Average SJF waiting time:  17.5
+
+Average FCFS and SJF burst time:  5.0
+
+50 processes with arrival time from 0 to 10 and burst 5
+
+Processes:
+
+Process with arrival:  4  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  0  and burst:  5
+
+
+Average FCFS waiting time:  117.22
+
+Average SJF waiting time:  117.22
+
+Average FCFS and SJF burst time:  5.0
+
+100 processes with arrival time from 0 to 10 and burst 5
+
+
+Processes:
+
+Process with arrival:  4  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+
+
+Average FCFS waiting time:  242.83
+
+Average SJF waiting time:  242.83
+
+Average FCFS and SJF burst time:  5.0
+
+10 processes with arrival time from 0 to 10 and burst from 1 to to 10
+
+Processes:
+
+Process with arrival:  2  and burst:  2
+Process with arrival:  5  and burst:  4
+Process with arrival:  6  and burst:  10
+Process with arrival:  5  and burst:  3
+Process with arrival:  9  and burst:  1
+Process with arrival:  0  and burst:  10
+Process with arrival:  7  and burst:  5
+Process with arrival:  4  and burst:  10
+Process with arrival:  7  and burst:  3
+Process with arrival:  7  and burst:  6
+
+
+Average FCFS waiting time:  23.0
+
+Average SJF waiting time:  14.6
+
+Average FCFS and SJF burst time:  5.4
+
+50 processes with arrival time from 0 to 10 and burst from 1 to to 10
+
+Processes:
+
+Process with arrival:  3  and burst:  2
+Process with arrival:  9  and burst:  10
+Process with arrival:  4  and burst:  6
+Process with arrival:  5  and burst:  1
+Process with arrival:  8  and burst:  7
+Process with arrival:  8  and burst:  1
+Process with arrival:  8  and burst:  4
+Process with arrival:  5  and burst:  1
+Process with arrival:  1  and burst:  5
+Process with arrival:  9  and burst:  4
+Process with arrival:  2  and burst:  10
+Process with arrival:  0  and burst:  4
+Process with arrival:  2  and burst:  4
+Process with arrival:  3  and burst:  2
+Process with arrival:  3  and burst:  10
+Process with arrival:  10  and burst:  4
+Process with arrival:  2  and burst:  4
+Process with arrival:  4  and burst:  9
+Process with arrival:  5  and burst:  2
+Process with arrival:  9  and burst:  7
+Process with arrival:  9  and burst:  8
+Process with arrival:  5  and burst:  8
+Process with arrival:  6  and burst:  10
+Process with arrival:  7  and burst:  9
+Process with arrival:  10  and burst:  9
+Process with arrival:  8  and burst:  10
+Process with arrival:  7  and burst:  3
+Process with arrival:  9  and burst:  8
+Process with arrival:  3  and burst:  4
+Process with arrival:  9  and burst:  8
+Process with arrival:  10  and burst:  10
+Process with arrival:  8  and burst:  5
+Process with arrival:  1  and burst:  3
+Process with arrival:  5  and burst:  3
+Process with arrival:  6  and burst:  4
+Process with arrival:  2  and burst:  3
+Process with arrival:  9  and burst:  6
+Process with arrival:  6  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  3  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  8  and burst:  9
+Process with arrival:  0  and burst:  3
+Process with arrival:  5  and burst:  9
+Process with arrival:  2  and burst:  9
+Process with arrival:  9  and burst:  7
+Process with arrival:  9  and burst:  10
+Process with arrival:  8  and burst:  2
+Process with arrival:  7  and burst:  3
+Process with arrival:  8  and burst:  10
+
+
+Average FCFS waiting time:  115.94
+
+Average SJF waiting time:  89.44
+
+Average FCFS and SJF burst time:  5.64
+
+100 processes with arrival time from 0 to 10 and burst from 1 to to 10
+
+
+Processes:
+
+Process with arrival:  0  and burst:  2
+Process with arrival:  1  and burst:  1
+Process with arrival:  5  and burst:  9
+Process with arrival:  6  and burst:  5
+Process with arrival:  5  and burst:  3
+Process with arrival:  10  and burst:  7
+Process with arrival:  4  and burst:  10
+Process with arrival:  0  and burst:  3
+Process with arrival:  8  and burst:  9
+Process with arrival:  3  and burst:  2
+Process with arrival:  3  and burst:  10
+Process with arrival:  5  and burst:  6
+Process with arrival:  7  and burst:  1
+Process with arrival:  0  and burst:  6
+Process with arrival:  8  and burst:  6
+Process with arrival:  5  and burst:  3
+Process with arrival:  7  and burst:  9
+Process with arrival:  9  and burst:  6
+Process with arrival:  2  and burst:  9
+Process with arrival:  8  and burst:  4
+Process with arrival:  9  and burst:  7
+Process with arrival:  10  and burst:  7
+Process with arrival:  3  and burst:  1
+Process with arrival:  9  and burst:  10
+Process with arrival:  5  and burst:  6
+Process with arrival:  7  and burst:  2
+Process with arrival:  6  and burst:  6
+Process with arrival:  0  and burst:  7
+Process with arrival:  2  and burst:  9
+Process with arrival:  8  and burst:  4
+Process with arrival:  2  and burst:  8
+Process with arrival:  8  and burst:  4
+Process with arrival:  5  and burst:  3
+Process with arrival:  7  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  6  and burst:  10
+Process with arrival:  0  and burst:  7
+Process with arrival:  9  and burst:  1
+Process with arrival:  7  and burst:  1
+Process with arrival:  0  and burst:  10
+Process with arrival:  2  and burst:  3
+Process with arrival:  2  and burst:  7
+Process with arrival:  5  and burst:  3
+Process with arrival:  9  and burst:  1
+Process with arrival:  7  and burst:  4
+Process with arrival:  5  and burst:  4
+Process with arrival:  6  and burst:  10
+Process with arrival:  10  and burst:  3
+Process with arrival:  6  and burst:  4
+Process with arrival:  5  and burst:  8
+Process with arrival:  10  and burst:  2
+Process with arrival:  1  and burst:  9
+Process with arrival:  3  and burst:  6
+Process with arrival:  4  and burst:  6
+Process with arrival:  4  and burst:  8
+Process with arrival:  10  and burst:  4
+Process with arrival:  2  and burst:  4
+Process with arrival:  10  and burst:  7
+Process with arrival:  1  and burst:  4
+Process with arrival:  2  and burst:  4
+Process with arrival:  7  and burst:  7
+Process with arrival:  8  and burst:  8
+Process with arrival:  5  and burst:  6
+Process with arrival:  3  and burst:  5
+Process with arrival:  1  and burst:  2
+Process with arrival:  5  and burst:  3
+Process with arrival:  3  and burst:  7
+Process with arrival:  4  and burst:  10
+Process with arrival:  2  and burst:  7
+Process with arrival:  1  and burst:  7
+Process with arrival:  10  and burst:  6
+Process with arrival:  6  and burst:  7
+Process with arrival:  10  and burst:  7
+Process with arrival:  3  and burst:  7
+Process with arrival:  6  and burst:  6
+Process with arrival:  4  and burst:  8
+Process with arrival:  5  and burst:  10
+Process with arrival:  4  and burst:  2
+Process with arrival:  8  and burst:  10
+Process with arrival:  0  and burst:  3
+Process with arrival:  6  and burst:  5
+Process with arrival:  6  and burst:  1
+Process with arrival:  9  and burst:  10
+Process with arrival:  9  and burst:  3
+Process with arrival:  4  and burst:  6
+Process with arrival:  0  and burst:  4
+Process with arrival:  6  and burst:  8
+Process with arrival:  7  and burst:  9
+Process with arrival:  7  and burst:  1
+Process with arrival:  0  and burst:  6
+Process with arrival:  7  and burst:  5
+Process with arrival:  7  and burst:  2
+Process with arrival:  10  and burst:  10
+Process with arrival:  1  and burst:  6
+Process with arrival:  4  and burst:  10
+Process with arrival:  1  and burst:  7
+Process with arrival:  9  and burst:  9
+Process with arrival:  10  and burst:  3
+Process with arrival:  8  and burst:  7
+Process with arrival:  8  and burst:  2
+
+
+Average FCFS waiting time:  276.0
+
+Average SJF waiting time:  195.59
+
+Average FCFS and SJF burst time:  5.66
+
+10 processes with arrival time from 0 to 100 and burst from 1 to to 100
+
+Processes:
+
+Process with arrival:  9  and burst:  47
+Process with arrival:  68  and burst:  34
+Process with arrival:  85  and burst:  60
+Process with arrival:  76  and burst:  8
+Process with arrival:  18  and burst:  100
+Process with arrival:  94  and burst:  22
+Process with arrival:  44  and burst:  95
+Process with arrival:  34  and burst:  52
+Process with arrival:  52  and burst:  43
+Process with arrival:  96  and burst:  45
+
+
+Average FCFS waiting time:  218.8
+
+Average SJF waiting time:  119.0
+
+Average FCFS and SJF burst time:  50.6
+
+50 processes with arrival time from 0 to 100 and burst from 1 to to 100
+
+Processes:
+
+Process with arrival:  6  and burst:  92
+Process with arrival:  0  and burst:  53
+Process with arrival:  1  and burst:  61
+Process with arrival:  1  and burst:  5
+Process with arrival:  2  and burst:  41
+Process with arrival:  2  and burst:  21
+Process with arrival:  0  and burst:  17
+Process with arrival:  0  and burst:  53
+Process with arrival:  7  and burst:  41
+Process with arrival:  6  and burst:  7
+Process with arrival:  4  and burst:  93
+Process with arrival:  0  and burst:  46
+Process with arrival:  8  and burst:  92
+Process with arrival:  4  and burst:  88
+Process with arrival:  4  and burst:  21
+Process with arrival:  1  and burst:  17
+Process with arrival:  9  and burst:  75
+Process with arrival:  2  and burst:  11
+Process with arrival:  7  and burst:  14
+Process with arrival:  5  and burst:  91
+Process with arrival:  10  and burst:  23
+Process with arrival:  8  and burst:  92
+Process with arrival:  1  and burst:  53
+Process with arrival:  4  and burst:  60
+Process with arrival:  0  and burst:  4
+Process with arrival:  10  and burst:  4
+Process with arrival:  4  and burst:  99
+Process with arrival:  6  and burst:  79
+Process with arrival:  5  and burst:  22
+Process with arrival:  1  and burst:  54
+Process with arrival:  3  and burst:  44
+Process with arrival:  0  and burst:  36
+Process with arrival:  4  and burst:  90
+Process with arrival:  7  and burst:  74
+Process with arrival:  6  and burst:  6
+Process with arrival:  5  and burst:  81
+Process with arrival:  8  and burst:  46
+Process with arrival:  8  and burst:  34
+Process with arrival:  3  and burst:  15
+Process with arrival:  6  and burst:  5
+Process with arrival:  1  and burst:  58
+Process with arrival:  5  and burst:  29
+Process with arrival:  3  and burst:  41
+Process with arrival:  6  and burst:  22
+Process with arrival:  4  and burst:  48
+Process with arrival:  2  and burst:  49
+Process with arrival:  9  and burst:  64
+Process with arrival:  2  and burst:  22
+Process with arrival:  8  and burst:  74
+Process with arrival:  9  and burst:  49
+
+
+Average FCFS waiting time:  1065.72
+
+Average SJF waiting time:  715.8
+
+Average FCFS and SJF burst time:  46.32
+
+100 processes with arrival time from 0 to 100 and burst from 1 to to 100
+
+Processes:
+
+Process with arrival:  8  and burst:  66
+Process with arrival:  10  and burst:  72
+Process with arrival:  70  and burst:  59
+Process with arrival:  46  and burst:  11
+Process with arrival:  28  and burst:  14
+Process with arrival:  22  and burst:  74
+Process with arrival:  36  and burst:  16
+Process with arrival:  10  and burst:  35
+Process with arrival:  91  and burst:  93
+Process with arrival:  85  and burst:  15
+Process with arrival:  7  and burst:  15
+Process with arrival:  65  and burst:  92
+Process with arrival:  69  and burst:  46
+Process with arrival:  11  and burst:  44
+Process with arrival:  78  and burst:  14
+Process with arrival:  21  and burst:  24
+Process with arrival:  66  and burst:  66
+Process with arrival:  4  and burst:  82
+Process with arrival:  0  and burst:  33
+Process with arrival:  5  and burst:  9
+Process with arrival:  40  and burst:  18
+Process with arrival:  51  and burst:  67
+Process with arrival:  80  and burst:  79
+Process with arrival:  90  and burst:  26
+Process with arrival:  68  and burst:  47
+Process with arrival:  50  and burst:  89
+Process with arrival:  73  and burst:  17
+Process with arrival:  20  and burst:  29
+Process with arrival:  17  and burst:  28
+Process with arrival:  59  and burst:  74
+Process with arrival:  87  and burst:  48
+Process with arrival:  71  and burst:  89
+Process with arrival:  68  and burst:  2
+Process with arrival:  5  and burst:  87
+Process with arrival:  22  and burst:  88
+Process with arrival:  31  and burst:  6
+Process with arrival:  49  and burst:  81
+Process with arrival:  18  and burst:  20
+Process with arrival:  74  and burst:  2
+Process with arrival:  15  and burst:  66
+Process with arrival:  21  and burst:  12
+Process with arrival:  90  and burst:  46
+Process with arrival:  78  and burst:  54
+Process with arrival:  56  and burst:  96
+Process with arrival:  76  and burst:  4
+Process with arrival:  87  and burst:  22
+Process with arrival:  88  and burst:  95
+Process with arrival:  87  and burst:  51
+Process with arrival:  32  and burst:  70
+Process with arrival:  49  and burst:  61
+Process with arrival:  94  and burst:  4
+Process with arrival:  37  and burst:  17
+Process with arrival:  80  and burst:  39
+Process with arrival:  3  and burst:  48
+Process with arrival:  51  and burst:  34
+Process with arrival:  78  and burst:  44
+Process with arrival:  64  and burst:  55
+Process with arrival:  54  and burst:  16
+Process with arrival:  16  and burst:  97
+Process with arrival:  47  and burst:  88
+Process with arrival:  19  and burst:  97
+Process with arrival:  82  and burst:  69
+Process with arrival:  47  and burst:  15
+Process with arrival:  58  and burst:  73
+Process with arrival:  57  and burst:  52
+Process with arrival:  39  and burst:  86
+Process with arrival:  64  and burst:  51
+Process with arrival:  12  and burst:  60
+Process with arrival:  11  and burst:  16
+Process with arrival:  40  and burst:  56
+Process with arrival:  91  and burst:  27
+Process with arrival:  42  and burst:  38
+Process with arrival:  3  and burst:  49
+Process with arrival:  96  and burst:  86
+Process with arrival:  11  and burst:  21
+Process with arrival:  94  and burst:  41
+Process with arrival:  23  and burst:  31
+Process with arrival:  37  and burst:  93
+Process with arrival:  28  and burst:  100
+Process with arrival:  74  and burst:  21
+Process with arrival:  57  and burst:  13
+Process with arrival:  41  and burst:  10
+Process with arrival:  90  and burst:  98
+Process with arrival:  94  and burst:  21
+Process with arrival:  8  and burst:  39
+Process with arrival:  13  and burst:  18
+Process with arrival:  31  and burst:  36
+Process with arrival:  16  and burst:  36
+Process with arrival:  71  and burst:  61
+Process with arrival:  100  and burst:  74
+Process with arrival:  47  and burst:  2
+Process with arrival:  81  and burst:  84
+Process with arrival:  15  and burst:  92
+Process with arrival:  64  and burst:  83
+Process with arrival:  0  and burst:  69
+Process with arrival:  82  and burst:  9
+Process with arrival:  14  and burst:  94
+Process with arrival:  14  and burst:  38
+Process with arrival:  27  and burst:  38
+Process with arrival:  32  and burst:  64
+
+
+Average FCFS waiting time:  2359.06
+
+Average SJF waiting time:  1508.28
+
+Average FCFS and SJF burst time:  48.57
+
+
+Output nr:  3
+
+10 processes with arrival time 0 and burst from 1 to to 5
+
+Processes:
+
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+
+
+Average FCFS waiting time:  17.3
+
+Average SJF waiting time:  10.1
+
+Average FCFS and SJF burst time:  3.1
+
+50 processes with arrival time 0 and burst from 1 to to 5
+
+Processes:
+
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+
+
+Average FCFS waiting time:  75.46
+
+Average SJF waiting time:  53.92
+
+Average FCFS and SJF burst time:  3.02
+
+100 processes with arrival time 0 and burst from 1 to to 5
+
+
+Processes:
+
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+
+
+Average FCFS waiting time:  156.58
+
+Average SJF waiting time:  119.46
+
+Average FCFS and SJF burst time:  3.18
+
+10 processes with arrival time from 0 to 10 and burst 5
+
+Processes:
+
+Process with arrival:  6  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  10  and burst:  5
+
+
+Average FCFS waiting time:  16.9
+
+Average SJF waiting time:  16.9
+
+Average FCFS and SJF burst time:  5.0
+
+50 processes with arrival time from 0 to 10 and burst 5
+
+Processes:
+
+Process with arrival:  6  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  1  and burst:  5
+
+
+Average FCFS waiting time:  117.22
+
+Average SJF waiting time:  117.22
+
+Average FCFS and SJF burst time:  5.0
+
+100 processes with arrival time from 0 to 10 and burst 5
+
+
+Processes:
+
+Process with arrival:  4  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  3  and burst:  5
+
+
+Average FCFS waiting time:  242.5
+
+Average SJF waiting time:  242.5
+
+Average FCFS and SJF burst time:  5.0
+
+10 processes with arrival time from 0 to 10 and burst from 1 to to 10
+
+Processes:
+
+Process with arrival:  1  and burst:  3
+Process with arrival:  4  and burst:  10
+Process with arrival:  4  and burst:  3
+Process with arrival:  6  and burst:  6
+Process with arrival:  6  and burst:  10
+Process with arrival:  2  and burst:  8
+Process with arrival:  2  and burst:  7
+Process with arrival:  4  and burst:  4
+Process with arrival:  10  and burst:  4
+Process with arrival:  6  and burst:  6
+
+
+Average FCFS waiting time:  24.0
+
+Average SJF waiting time:  16.9
+
+Average FCFS and SJF burst time:  6.1
+
+50 processes with arrival time from 0 to 10 and burst from 1 to to 10
+
+Processes:
+
+Process with arrival:  3  and burst:  4
+Process with arrival:  3  and burst:  3
+Process with arrival:  1  and burst:  2
+Process with arrival:  4  and burst:  5
+Process with arrival:  3  and burst:  7
+Process with arrival:  3  and burst:  3
+Process with arrival:  7  and burst:  4
+Process with arrival:  4  and burst:  5
+Process with arrival:  9  and burst:  3
+Process with arrival:  9  and burst:  10
+Process with arrival:  8  and burst:  3
+Process with arrival:  8  and burst:  8
+Process with arrival:  6  and burst:  9
+Process with arrival:  0  and burst:  8
+Process with arrival:  0  and burst:  7
+Process with arrival:  7  and burst:  5
+Process with arrival:  8  and burst:  1
+Process with arrival:  5  and burst:  3
+Process with arrival:  8  and burst:  7
+Process with arrival:  5  and burst:  7
+Process with arrival:  6  and burst:  8
+Process with arrival:  8  and burst:  10
+Process with arrival:  1  and burst:  7
+Process with arrival:  10  and burst:  5
+Process with arrival:  4  and burst:  7
+Process with arrival:  3  and burst:  7
+Process with arrival:  7  and burst:  7
+Process with arrival:  0  and burst:  10
+Process with arrival:  3  and burst:  3
+Process with arrival:  1  and burst:  9
+Process with arrival:  2  and burst:  8
+Process with arrival:  3  and burst:  7
+Process with arrival:  5  and burst:  9
+Process with arrival:  5  and burst:  6
+Process with arrival:  6  and burst:  1
+Process with arrival:  2  and burst:  3
+Process with arrival:  6  and burst:  7
+Process with arrival:  8  and burst:  7
+Process with arrival:  5  and burst:  5
+Process with arrival:  2  and burst:  7
+Process with arrival:  6  and burst:  3
+Process with arrival:  9  and burst:  8
+Process with arrival:  5  and burst:  9
+Process with arrival:  7  and burst:  5
+Process with arrival:  1  and burst:  6
+Process with arrival:  5  and burst:  10
+Process with arrival:  6  and burst:  9
+Process with arrival:  5  and burst:  7
+Process with arrival:  6  and burst:  3
+Process with arrival:  1  and burst:  9
+
+
+Average FCFS waiting time:  146.94
+
+Average SJF waiting time:  111.4
+
+Average FCFS and SJF burst time:  6.12
+
+100 processes with arrival time from 0 to 10 and burst from 1 to to 10
+
+
+Processes:
+
+Process with arrival:  4  and burst:  4
+Process with arrival:  0  and burst:  9
+Process with arrival:  5  and burst:  6
+Process with arrival:  8  and burst:  8
+Process with arrival:  7  and burst:  9
+Process with arrival:  5  and burst:  2
+Process with arrival:  3  and burst:  2
+Process with arrival:  4  and burst:  8
+Process with arrival:  8  and burst:  7
+Process with arrival:  0  and burst:  4
+Process with arrival:  1  and burst:  1
+Process with arrival:  10  and burst:  7
+Process with arrival:  7  and burst:  1
+Process with arrival:  10  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  2  and burst:  5
+Process with arrival:  2  and burst:  9
+Process with arrival:  5  and burst:  1
+Process with arrival:  4  and burst:  9
+Process with arrival:  3  and burst:  7
+Process with arrival:  2  and burst:  1
+Process with arrival:  7  and burst:  3
+Process with arrival:  3  and burst:  9
+Process with arrival:  6  and burst:  9
+Process with arrival:  4  and burst:  2
+Process with arrival:  2  and burst:  10
+Process with arrival:  8  and burst:  3
+Process with arrival:  4  and burst:  2
+Process with arrival:  3  and burst:  8
+Process with arrival:  3  and burst:  2
+Process with arrival:  2  and burst:  7
+Process with arrival:  5  and burst:  10
+Process with arrival:  5  and burst:  1
+Process with arrival:  9  and burst:  10
+Process with arrival:  7  and burst:  6
+Process with arrival:  0  and burst:  2
+Process with arrival:  1  and burst:  9
+Process with arrival:  8  and burst:  1
+Process with arrival:  6  and burst:  4
+Process with arrival:  9  and burst:  4
+Process with arrival:  9  and burst:  6
+Process with arrival:  10  and burst:  4
+Process with arrival:  5  and burst:  9
+Process with arrival:  0  and burst:  4
+Process with arrival:  2  and burst:  7
+Process with arrival:  3  and burst:  7
+Process with arrival:  10  and burst:  2
+Process with arrival:  2  and burst:  5
+Process with arrival:  10  and burst:  9
+Process with arrival:  9  and burst:  1
+Process with arrival:  7  and burst:  4
+Process with arrival:  4  and burst:  10
+Process with arrival:  4  and burst:  7
+Process with arrival:  10  and burst:  4
+Process with arrival:  4  and burst:  6
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  8  and burst:  2
+Process with arrival:  3  and burst:  2
+Process with arrival:  0  and burst:  9
+Process with arrival:  10  and burst:  7
+Process with arrival:  7  and burst:  3
+Process with arrival:  6  and burst:  7
+Process with arrival:  2  and burst:  3
+Process with arrival:  2  and burst:  5
+Process with arrival:  7  and burst:  10
+Process with arrival:  0  and burst:  4
+Process with arrival:  10  and burst:  1
+Process with arrival:  3  and burst:  10
+Process with arrival:  1  and burst:  4
+Process with arrival:  7  and burst:  3
+Process with arrival:  9  and burst:  4
+Process with arrival:  7  and burst:  6
+Process with arrival:  3  and burst:  6
+Process with arrival:  0  and burst:  7
+Process with arrival:  1  and burst:  9
+Process with arrival:  0  and burst:  9
+Process with arrival:  9  and burst:  6
+Process with arrival:  6  and burst:  4
+Process with arrival:  3  and burst:  9
+Process with arrival:  2  and burst:  9
+Process with arrival:  7  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  3  and burst:  4
+Process with arrival:  3  and burst:  2
+Process with arrival:  5  and burst:  6
+Process with arrival:  1  and burst:  6
+Process with arrival:  10  and burst:  4
+Process with arrival:  2  and burst:  2
+Process with arrival:  1  and burst:  8
+Process with arrival:  4  and burst:  4
+Process with arrival:  2  and burst:  3
+Process with arrival:  4  and burst:  8
+Process with arrival:  4  and burst:  2
+Process with arrival:  6  and burst:  9
+Process with arrival:  5  and burst:  6
+Process with arrival:  10  and burst:  5
+Process with arrival:  10  and burst:  8
+Process with arrival:  4  and burst:  10
+Process with arrival:  6  and burst:  5
+
+
+Average FCFS waiting time:  268.98
+
+Average SJF waiting time:  183.02
+
+Average FCFS and SJF burst time:  5.42
+
+10 processes with arrival time from 0 to 100 and burst from 1 to to 100
+
+Processes:
+
+Process with arrival:  30  and burst:  17
+Process with arrival:  26  and burst:  72
+Process with arrival:  8  and burst:  65
+Process with arrival:  61  and burst:  95
+Process with arrival:  10  and burst:  5
+Process with arrival:  71  and burst:  95
+Process with arrival:  33  and burst:  25
+Process with arrival:  87  and burst:  35
+Process with arrival:  13  and burst:  61
+Process with arrival:  80  and burst:  5
+
+
+Average FCFS waiting time:  181.0
+
+Average SJF waiting time:  112.2
+
+Average FCFS and SJF burst time:  47.5
+
+50 processes with arrival time from 0 to 100 and burst from 1 to to 100
+
+Processes:
+
+Process with arrival:  6  and burst:  67
+Process with arrival:  1  and burst:  98
+Process with arrival:  10  and burst:  80
+Process with arrival:  5  and burst:  52
+Process with arrival:  4  and burst:  18
+Process with arrival:  5  and burst:  98
+Process with arrival:  4  and burst:  85
+Process with arrival:  0  and burst:  46
+Process with arrival:  5  and burst:  17
+Process with arrival:  7  and burst:  23
+Process with arrival:  8  and burst:  4
+Process with arrival:  4  and burst:  5
+Process with arrival:  0  and burst:  11
+Process with arrival:  3  and burst:  82
+Process with arrival:  3  and burst:  100
+Process with arrival:  1  and burst:  25
+Process with arrival:  8  and burst:  63
+Process with arrival:  2  and burst:  60
+Process with arrival:  7  and burst:  9
+Process with arrival:  5  and burst:  72
+Process with arrival:  5  and burst:  87
+Process with arrival:  2  and burst:  38
+Process with arrival:  7  and burst:  39
+Process with arrival:  1  and burst:  51
+Process with arrival:  7  and burst:  1
+Process with arrival:  0  and burst:  71
+Process with arrival:  4  and burst:  45
+Process with arrival:  2  and burst:  2
+Process with arrival:  10  and burst:  28
+Process with arrival:  9  and burst:  55
+Process with arrival:  10  and burst:  43
+Process with arrival:  3  and burst:  43
+Process with arrival:  4  and burst:  27
+Process with arrival:  10  and burst:  79
+Process with arrival:  9  and burst:  14
+Process with arrival:  4  and burst:  94
+Process with arrival:  7  and burst:  21
+Process with arrival:  1  and burst:  52
+Process with arrival:  7  and burst:  63
+Process with arrival:  10  and burst:  6
+Process with arrival:  3  and burst:  93
+Process with arrival:  4  and burst:  19
+Process with arrival:  1  and burst:  2
+Process with arrival:  10  and burst:  1
+Process with arrival:  8  and burst:  34
+Process with arrival:  5  and burst:  52
+Process with arrival:  8  and burst:  10
+Process with arrival:  7  and burst:  82
+Process with arrival:  0  and burst:  87
+Process with arrival:  10  and burst:  20
+
+
+Average FCFS waiting time:  1206.88
+
+Average SJF waiting time:  661.82
+
+Average FCFS and SJF burst time:  45.48
+
+100 processes with arrival time from 0 to 100 and burst from 1 to to 100
+
+Processes:
+
+Process with arrival:  31  and burst:  70
+Process with arrival:  89  and burst:  89
+Process with arrival:  70  and burst:  49
+Process with arrival:  74  and burst:  20
+Process with arrival:  6  and burst:  43
+Process with arrival:  78  and burst:  37
+Process with arrival:  79  and burst:  87
+Process with arrival:  90  and burst:  4
+Process with arrival:  6  and burst:  36
+Process with arrival:  51  and burst:  93
+Process with arrival:  98  and burst:  28
+Process with arrival:  20  and burst:  16
+Process with arrival:  49  and burst:  49
+Process with arrival:  61  and burst:  24
+Process with arrival:  2  and burst:  4
+Process with arrival:  69  and burst:  36
+Process with arrival:  33  and burst:  26
+Process with arrival:  70  and burst:  6
+Process with arrival:  27  and burst:  38
+Process with arrival:  82  and burst:  93
+Process with arrival:  44  and burst:  99
+Process with arrival:  68  and burst:  36
+Process with arrival:  73  and burst:  78
+Process with arrival:  75  and burst:  66
+Process with arrival:  58  and burst:  56
+Process with arrival:  59  and burst:  44
+Process with arrival:  12  and burst:  94
+Process with arrival:  8  and burst:  9
+Process with arrival:  42  and burst:  8
+Process with arrival:  93  and burst:  63
+Process with arrival:  13  and burst:  71
+Process with arrival:  36  and burst:  66
+Process with arrival:  26  and burst:  45
+Process with arrival:  6  and burst:  21
+Process with arrival:  95  and burst:  47
+Process with arrival:  96  and burst:  7
+Process with arrival:  22  and burst:  77
+Process with arrival:  55  and burst:  37
+Process with arrival:  14  and burst:  26
+Process with arrival:  6  and burst:  9
+Process with arrival:  95  and burst:  10
+Process with arrival:  81  and burst:  39
+Process with arrival:  13  and burst:  19
+Process with arrival:  8  and burst:  88
+Process with arrival:  55  and burst:  35
+Process with arrival:  0  and burst:  8
+Process with arrival:  63  and burst:  43
+Process with arrival:  14  and burst:  88
+Process with arrival:  25  and burst:  28
+Process with arrival:  12  and burst:  16
+Process with arrival:  92  and burst:  77
+Process with arrival:  54  and burst:  80
+Process with arrival:  62  and burst:  36
+Process with arrival:  44  and burst:  38
+Process with arrival:  42  and burst:  66
+Process with arrival:  90  and burst:  98
+Process with arrival:  62  and burst:  56
+Process with arrival:  67  and burst:  57
+Process with arrival:  39  and burst:  2
+Process with arrival:  68  and burst:  36
+Process with arrival:  51  and burst:  55
+Process with arrival:  25  and burst:  55
+Process with arrival:  16  and burst:  4
+Process with arrival:  60  and burst:  37
+Process with arrival:  44  and burst:  91
+Process with arrival:  6  and burst:  16
+Process with arrival:  74  and burst:  19
+Process with arrival:  39  and burst:  90
+Process with arrival:  89  and burst:  72
+Process with arrival:  73  and burst:  30
+Process with arrival:  52  and burst:  35
+Process with arrival:  63  and burst:  17
+Process with arrival:  66  and burst:  29
+Process with arrival:  54  and burst:  2
+Process with arrival:  95  and burst:  20
+Process with arrival:  39  and burst:  25
+Process with arrival:  93  and burst:  46
+Process with arrival:  41  and burst:  3
+Process with arrival:  54  and burst:  5
+Process with arrival:  92  and burst:  7
+Process with arrival:  59  and burst:  31
+Process with arrival:  69  and burst:  65
+Process with arrival:  93  and burst:  63
+Process with arrival:  31  and burst:  7
+Process with arrival:  34  and burst:  39
+Process with arrival:  59  and burst:  75
+Process with arrival:  44  and burst:  22
+Process with arrival:  80  and burst:  31
+Process with arrival:  26  and burst:  59
+Process with arrival:  9  and burst:  23
+Process with arrival:  30  and burst:  14
+Process with arrival:  45  and burst:  20
+Process with arrival:  11  and burst:  11
+Process with arrival:  92  and burst:  1
+Process with arrival:  40  and burst:  85
+Process with arrival:  75  and burst:  11
+Process with arrival:  42  and burst:  15
+Process with arrival:  20  and burst:  93
+Process with arrival:  45  and burst:  71
+Process with arrival:  99  and burst:  94
+
+
+Average FCFS waiting time:  1951.66
+
+Average SJF waiting time:  1215.09
+
+Average FCFS and SJF burst time:  42.15
+
+
+Output nr:  4
+
+10 processes with arrival time 0 and burst from 1 to to 5
+
+Processes:
+
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+
+
+Average FCFS waiting time:  17.6
+
+Average SJF waiting time:  12.8
+
+Average FCFS and SJF burst time:  3.7
+
+50 processes with arrival time 0 and burst from 1 to to 5
+
+Processes:
+
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+
+
+Average FCFS waiting time:  74.64
+
+Average SJF waiting time:  51.88
+
+Average FCFS and SJF burst time:  2.82
+
+100 processes with arrival time 0 and burst from 1 to to 5
+
+
+Processes:
+
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+
+
+Average FCFS waiting time:  154.7
+
+Average SJF waiting time:  108.83
+
+Average FCFS and SJF burst time:  3.04
+
+10 processes with arrival time from 0 to 10 and burst 5
+
+Processes:
+
+Process with arrival:  5  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  4  and burst:  5
+
+
+Average FCFS waiting time:  18.5
+
+Average SJF waiting time:  18.5
+
+Average FCFS and SJF burst time:  5.0
+
+50 processes with arrival time from 0 to 10 and burst 5
+
+Processes:
+
+Process with arrival:  6  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  1  and burst:  5
+
+
+Average FCFS waiting time:  117.48
+
+Average SJF waiting time:  117.48
+
+Average FCFS and SJF burst time:  5.0
+
+100 processes with arrival time from 0 to 10 and burst 5
+
+
+Processes:
+
+Process with arrival:  8  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  8  and burst:  5
+
+
+Average FCFS waiting time:  242.47
+
+Average SJF waiting time:  242.47
+
+Average FCFS and SJF burst time:  5.0
+
+10 processes with arrival time from 0 to 10 and burst from 1 to to 10
+
+Processes:
+
+Process with arrival:  6  and burst:  3
+Process with arrival:  4  and burst:  9
+Process with arrival:  0  and burst:  3
+Process with arrival:  9  and burst:  7
+Process with arrival:  7  and burst:  4
+Process with arrival:  2  and burst:  10
+Process with arrival:  2  and burst:  9
+Process with arrival:  7  and burst:  9
+Process with arrival:  0  and burst:  10
+Process with arrival:  9  and burst:  5
+
+
+Average FCFS waiting time:  27.9
+
+Average SJF waiting time:  20.6
+
+Average FCFS and SJF burst time:  6.9
+
+50 processes with arrival time from 0 to 10 and burst from 1 to to 10
+
+Processes:
+
+Process with arrival:  9  and burst:  2
+Process with arrival:  9  and burst:  8
+Process with arrival:  0  and burst:  8
+Process with arrival:  7  and burst:  8
+Process with arrival:  2  and burst:  6
+Process with arrival:  7  and burst:  6
+Process with arrival:  2  and burst:  9
+Process with arrival:  5  and burst:  5
+Process with arrival:  8  and burst:  9
+Process with arrival:  2  and burst:  7
+Process with arrival:  1  and burst:  6
+Process with arrival:  7  and burst:  9
+Process with arrival:  9  and burst:  6
+Process with arrival:  0  and burst:  9
+Process with arrival:  8  and burst:  1
+Process with arrival:  7  and burst:  10
+Process with arrival:  7  and burst:  4
+Process with arrival:  10  and burst:  9
+Process with arrival:  2  and burst:  4
+Process with arrival:  6  and burst:  7
+Process with arrival:  1  and burst:  9
+Process with arrival:  7  and burst:  2
+Process with arrival:  5  and burst:  4
+Process with arrival:  4  and burst:  8
+Process with arrival:  1  and burst:  4
+Process with arrival:  6  and burst:  1
+Process with arrival:  7  and burst:  9
+Process with arrival:  5  and burst:  8
+Process with arrival:  6  and burst:  7
+Process with arrival:  10  and burst:  10
+Process with arrival:  3  and burst:  8
+Process with arrival:  3  and burst:  10
+Process with arrival:  7  and burst:  9
+Process with arrival:  5  and burst:  10
+Process with arrival:  5  and burst:  2
+Process with arrival:  3  and burst:  10
+Process with arrival:  1  and burst:  5
+Process with arrival:  1  and burst:  2
+Process with arrival:  5  and burst:  7
+Process with arrival:  6  and burst:  5
+Process with arrival:  6  and burst:  7
+Process with arrival:  1  and burst:  2
+Process with arrival:  8  and burst:  8
+Process with arrival:  2  and burst:  1
+Process with arrival:  4  and burst:  7
+Process with arrival:  2  and burst:  7
+Process with arrival:  9  and burst:  3
+Process with arrival:  9  and burst:  2
+Process with arrival:  4  and burst:  2
+Process with arrival:  4  and burst:  7
+
+
+Average FCFS waiting time:  146.28
+
+Average SJF waiting time:  108.7
+
+Average FCFS and SJF burst time:  6.18
+
+100 processes with arrival time from 0 to 10 and burst from 1 to to 10
+
+
+Processes:
+
+Process with arrival:  6  and burst:  2
+Process with arrival:  7  and burst:  1
+Process with arrival:  3  and burst:  7
+Process with arrival:  1  and burst:  3
+Process with arrival:  9  and burst:  8
+Process with arrival:  6  and burst:  5
+Process with arrival:  5  and burst:  3
+Process with arrival:  5  and burst:  10
+Process with arrival:  4  and burst:  1
+Process with arrival:  10  and burst:  3
+Process with arrival:  4  and burst:  2
+Process with arrival:  5  and burst:  4
+Process with arrival:  2  and burst:  8
+Process with arrival:  5  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  10  and burst:  8
+Process with arrival:  7  and burst:  5
+Process with arrival:  9  and burst:  7
+Process with arrival:  9  and burst:  7
+Process with arrival:  5  and burst:  8
+Process with arrival:  2  and burst:  2
+Process with arrival:  2  and burst:  6
+Process with arrival:  6  and burst:  3
+Process with arrival:  9  and burst:  9
+Process with arrival:  8  and burst:  2
+Process with arrival:  2  and burst:  7
+Process with arrival:  8  and burst:  9
+Process with arrival:  3  and burst:  6
+Process with arrival:  0  and burst:  2
+Process with arrival:  5  and burst:  1
+Process with arrival:  5  and burst:  3
+Process with arrival:  7  and burst:  2
+Process with arrival:  1  and burst:  4
+Process with arrival:  2  and burst:  7
+Process with arrival:  7  and burst:  4
+Process with arrival:  3  and burst:  7
+Process with arrival:  4  and burst:  4
+Process with arrival:  4  and burst:  8
+Process with arrival:  3  and burst:  2
+Process with arrival:  8  and burst:  8
+Process with arrival:  6  and burst:  10
+Process with arrival:  7  and burst:  4
+Process with arrival:  3  and burst:  3
+Process with arrival:  8  and burst:  1
+Process with arrival:  4  and burst:  5
+Process with arrival:  2  and burst:  9
+Process with arrival:  6  and burst:  1
+Process with arrival:  5  and burst:  2
+Process with arrival:  5  and burst:  2
+Process with arrival:  8  and burst:  6
+Process with arrival:  7  and burst:  1
+Process with arrival:  9  and burst:  5
+Process with arrival:  2  and burst:  2
+Process with arrival:  5  and burst:  7
+Process with arrival:  9  and burst:  1
+Process with arrival:  3  and burst:  2
+Process with arrival:  5  and burst:  3
+Process with arrival:  10  and burst:  9
+Process with arrival:  2  and burst:  2
+Process with arrival:  1  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  7  and burst:  9
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  9
+Process with arrival:  9  and burst:  10
+Process with arrival:  0  and burst:  3
+Process with arrival:  5  and burst:  7
+Process with arrival:  0  and burst:  8
+Process with arrival:  1  and burst:  10
+Process with arrival:  3  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  7  and burst:  2
+Process with arrival:  4  and burst:  8
+Process with arrival:  9  and burst:  2
+Process with arrival:  2  and burst:  10
+Process with arrival:  7  and burst:  7
+Process with arrival:  10  and burst:  3
+Process with arrival:  9  and burst:  7
+Process with arrival:  1  and burst:  7
+Process with arrival:  8  and burst:  3
+Process with arrival:  7  and burst:  3
+Process with arrival:  3  and burst:  5
+Process with arrival:  2  and burst:  9
+Process with arrival:  0  and burst:  7
+Process with arrival:  2  and burst:  7
+Process with arrival:  6  and burst:  4
+Process with arrival:  10  and burst:  2
+Process with arrival:  3  and burst:  8
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  4  and burst:  9
+Process with arrival:  6  and burst:  4
+Process with arrival:  5  and burst:  4
+Process with arrival:  6  and burst:  5
+Process with arrival:  10  and burst:  10
+Process with arrival:  9  and burst:  3
+Process with arrival:  2  and burst:  4
+Process with arrival:  4  and burst:  10
+Process with arrival:  8  and burst:  8
+
+
+Average FCFS waiting time:  239.66
+
+Average SJF waiting time:  161.56
+
+Average FCFS and SJF burst time:  5.0
+
+10 processes with arrival time from 0 to 100 and burst from 1 to to 100
+
+Processes:
+
+Process with arrival:  74  and burst:  78
+Process with arrival:  49  and burst:  43
+Process with arrival:  63  and burst:  94
+Process with arrival:  6  and burst:  95
+Process with arrival:  70  and burst:  26
+Process with arrival:  71  and burst:  17
+Process with arrival:  26  and burst:  63
+Process with arrival:  58  and burst:  82
+Process with arrival:  27  and burst:  71
+Process with arrival:  39  and burst:  72
+
+
+Average FCFS waiting time:  275.9
+
+Average SJF waiting time:  206.1
+
+Average FCFS and SJF burst time:  64.1
+
+50 processes with arrival time from 0 to 100 and burst from 1 to to 100
+
+Processes:
+
+Process with arrival:  1  and burst:  82
+Process with arrival:  8  and burst:  50
+Process with arrival:  1  and burst:  55
+Process with arrival:  7  and burst:  19
+Process with arrival:  0  and burst:  49
+Process with arrival:  8  and burst:  68
+Process with arrival:  1  and burst:  44
+Process with arrival:  8  and burst:  78
+Process with arrival:  3  and burst:  69
+Process with arrival:  4  and burst:  4
+Process with arrival:  1  and burst:  80
+Process with arrival:  8  and burst:  24
+Process with arrival:  7  and burst:  54
+Process with arrival:  2  and burst:  2
+Process with arrival:  7  and burst:  23
+Process with arrival:  6  and burst:  51
+Process with arrival:  0  and burst:  93
+Process with arrival:  4  and burst:  14
+Process with arrival:  1  and burst:  53
+Process with arrival:  1  and burst:  21
+Process with arrival:  2  and burst:  17
+Process with arrival:  7  and burst:  26
+Process with arrival:  7  and burst:  58
+Process with arrival:  7  and burst:  77
+Process with arrival:  0  and burst:  76
+Process with arrival:  5  and burst:  35
+Process with arrival:  8  and burst:  72
+Process with arrival:  0  and burst:  37
+Process with arrival:  8  and burst:  23
+Process with arrival:  4  and burst:  44
+Process with arrival:  5  and burst:  57
+Process with arrival:  9  and burst:  69
+Process with arrival:  5  and burst:  51
+Process with arrival:  4  and burst:  61
+Process with arrival:  1  and burst:  95
+Process with arrival:  6  and burst:  70
+Process with arrival:  1  and burst:  71
+Process with arrival:  3  and burst:  57
+Process with arrival:  1  and burst:  17
+Process with arrival:  0  and burst:  95
+Process with arrival:  10  and burst:  12
+Process with arrival:  4  and burst:  5
+Process with arrival:  1  and burst:  15
+Process with arrival:  0  and burst:  10
+Process with arrival:  6  and burst:  16
+Process with arrival:  5  and burst:  83
+Process with arrival:  3  and burst:  31
+Process with arrival:  8  and burst:  23
+Process with arrival:  2  and burst:  97
+Process with arrival:  2  and burst:  6
+
+
+Average FCFS waiting time:  1201.82
+
+Average SJF waiting time:  742.42
+
+Average FCFS and SJF burst time:  46.78
+
+100 processes with arrival time from 0 to 100 and burst from 1 to to 100
+
+Processes:
+
+Process with arrival:  18  and burst:  27
+Process with arrival:  75  and burst:  96
+Process with arrival:  36  and burst:  60
+Process with arrival:  88  and burst:  89
+Process with arrival:  34  and burst:  58
+Process with arrival:  100  and burst:  93
+Process with arrival:  53  and burst:  64
+Process with arrival:  18  and burst:  17
+Process with arrival:  29  and burst:  68
+Process with arrival:  14  and burst:  9
+Process with arrival:  45  and burst:  2
+Process with arrival:  22  and burst:  49
+Process with arrival:  70  and burst:  26
+Process with arrival:  42  and burst:  90
+Process with arrival:  35  and burst:  3
+Process with arrival:  28  and burst:  52
+Process with arrival:  33  and burst:  25
+Process with arrival:  49  and burst:  76
+Process with arrival:  1  and burst:  76
+Process with arrival:  55  and burst:  70
+Process with arrival:  80  and burst:  81
+Process with arrival:  34  and burst:  36
+Process with arrival:  42  and burst:  85
+Process with arrival:  68  and burst:  12
+Process with arrival:  5  and burst:  84
+Process with arrival:  85  and burst:  71
+Process with arrival:  93  and burst:  27
+Process with arrival:  1  and burst:  52
+Process with arrival:  67  and burst:  98
+Process with arrival:  72  and burst:  64
+Process with arrival:  12  and burst:  46
+Process with arrival:  62  and burst:  50
+Process with arrival:  83  and burst:  68
+Process with arrival:  8  and burst:  51
+Process with arrival:  5  and burst:  27
+Process with arrival:  22  and burst:  31
+Process with arrival:  67  and burst:  68
+Process with arrival:  60  and burst:  73
+Process with arrival:  1  and burst:  85
+Process with arrival:  3  and burst:  87
+Process with arrival:  19  and burst:  78
+Process with arrival:  17  and burst:  77
+Process with arrival:  78  and burst:  90
+Process with arrival:  5  and burst:  4
+Process with arrival:  95  and burst:  36
+Process with arrival:  79  and burst:  32
+Process with arrival:  35  and burst:  10
+Process with arrival:  45  and burst:  73
+Process with arrival:  1  and burst:  19
+Process with arrival:  0  and burst:  35
+Process with arrival:  64  and burst:  53
+Process with arrival:  18  and burst:  70
+Process with arrival:  35  and burst:  77
+Process with arrival:  27  and burst:  98
+Process with arrival:  4  and burst:  29
+Process with arrival:  56  and burst:  26
+Process with arrival:  44  and burst:  1
+Process with arrival:  4  and burst:  36
+Process with arrival:  87  and burst:  60
+Process with arrival:  80  and burst:  72
+Process with arrival:  80  and burst:  13
+Process with arrival:  15  and burst:  52
+Process with arrival:  48  and burst:  97
+Process with arrival:  88  and burst:  75
+Process with arrival:  27  and burst:  5
+Process with arrival:  86  and burst:  72
+Process with arrival:  88  and burst:  80
+Process with arrival:  72  and burst:  56
+Process with arrival:  78  and burst:  71
+Process with arrival:  37  and burst:  64
+Process with arrival:  41  and burst:  91
+Process with arrival:  81  and burst:  28
+Process with arrival:  82  and burst:  46
+Process with arrival:  59  and burst:  5
+Process with arrival:  3  and burst:  2
+Process with arrival:  73  and burst:  31
+Process with arrival:  2  and burst:  39
+Process with arrival:  26  and burst:  33
+Process with arrival:  40  and burst:  33
+Process with arrival:  76  and burst:  96
+Process with arrival:  1  and burst:  69
+Process with arrival:  14  and burst:  34
+Process with arrival:  71  and burst:  63
+Process with arrival:  29  and burst:  59
+Process with arrival:  63  and burst:  53
+Process with arrival:  40  and burst:  79
+Process with arrival:  5  and burst:  70
+Process with arrival:  15  and burst:  63
+Process with arrival:  49  and burst:  89
+Process with arrival:  86  and burst:  40
+Process with arrival:  75  and burst:  56
+Process with arrival:  80  and burst:  63
+Process with arrival:  89  and burst:  77
+Process with arrival:  58  and burst:  79
+Process with arrival:  33  and burst:  45
+Process with arrival:  93  and burst:  44
+Process with arrival:  14  and burst:  41
+Process with arrival:  73  and burst:  99
+Process with arrival:  39  and burst:  1
+Process with arrival:  1  and burst:  93
+
+
+Average FCFS waiting time:  2487.5
+
+Average SJF waiting time:  1852.1
+
+Average FCFS and SJF burst time:  54.28
+
+
+Output nr:  5
+
+10 processes with arrival time 0 and burst from 1 to to 5
+
+Processes:
+
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+
+
+Average FCFS waiting time:  13.2
+
+Average SJF waiting time:  7.7
+
+Average FCFS and SJF burst time:  2.7
+
+50 processes with arrival time 0 and burst from 1 to to 5
+
+Processes:
+
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+
+
+Average FCFS waiting time:  89.04
+
+Average SJF waiting time:  62.62
+
+Average FCFS and SJF burst time:  3.36
+
+100 processes with arrival time 0 and burst from 1 to to 5
+
+
+Processes:
+
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  4
+Process with arrival:  0  and burst:  3
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  2
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+
+
+Average FCFS waiting time:  142.57
+
+Average SJF waiting time:  103.46
+
+Average FCFS and SJF burst time:  2.9
+
+10 processes with arrival time from 0 to 10 and burst 5
+
+Processes:
+
+Process with arrival:  10  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  5  and burst:  5
+
+
+Average FCFS waiting time:  16.8
+
+Average SJF waiting time:  16.8
+
+Average FCFS and SJF burst time:  5.0
+
+50 processes with arrival time from 0 to 10 and burst 5
+
+Processes:
+
+Process with arrival:  4  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  1  and burst:  5
+
+
+Average FCFS waiting time:  117.42
+
+Average SJF waiting time:  117.42
+
+Average FCFS and SJF burst time:  5.0
+
+100 processes with arrival time from 0 to 10 and burst 5
+
+
+Processes:
+
+Process with arrival:  2  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  9  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  8  and burst:  5
+Process with arrival:  7  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  1  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  6  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  5  and burst:  5
+Process with arrival:  2  and burst:  5
+Process with arrival:  4  and burst:  5
+Process with arrival:  10  and burst:  5
+Process with arrival:  3  and burst:  5
+Process with arrival:  4  and burst:  5
+
+
+Average FCFS waiting time:  242.64
+
+Average SJF waiting time:  242.64
+
+Average FCFS and SJF burst time:  5.0
+
+10 processes with arrival time from 0 to 10 and burst from 1 to to 10
+
+Processes:
+
+Process with arrival:  8  and burst:  2
+Process with arrival:  0  and burst:  10
+Process with arrival:  1  and burst:  7
+Process with arrival:  4  and burst:  9
+Process with arrival:  2  and burst:  7
+Process with arrival:  1  and burst:  2
+Process with arrival:  6  and burst:  9
+Process with arrival:  1  and burst:  7
+Process with arrival:  3  and burst:  9
+Process with arrival:  0  and burst:  3
+
+
+Average FCFS waiting time:  26.6
+
+Average SJF waiting time:  19.5
+
+Average FCFS and SJF burst time:  6.5
+
+50 processes with arrival time from 0 to 10 and burst from 1 to to 10
+
+Processes:
+
+Process with arrival:  6  and burst:  3
+Process with arrival:  4  and burst:  8
+Process with arrival:  0  and burst:  5
+Process with arrival:  0  and burst:  1
+Process with arrival:  6  and burst:  9
+Process with arrival:  8  and burst:  8
+Process with arrival:  7  and burst:  7
+Process with arrival:  9  and burst:  3
+Process with arrival:  1  and burst:  8
+Process with arrival:  3  and burst:  4
+Process with arrival:  9  and burst:  2
+Process with arrival:  2  and burst:  9
+Process with arrival:  9  and burst:  1
+Process with arrival:  10  and burst:  9
+Process with arrival:  3  and burst:  8
+Process with arrival:  1  and burst:  3
+Process with arrival:  10  and burst:  8
+Process with arrival:  6  and burst:  6
+Process with arrival:  8  and burst:  10
+Process with arrival:  9  and burst:  3
+Process with arrival:  4  and burst:  7
+Process with arrival:  10  and burst:  7
+Process with arrival:  8  and burst:  4
+Process with arrival:  0  and burst:  8
+Process with arrival:  7  and burst:  8
+Process with arrival:  7  and burst:  2
+Process with arrival:  1  and burst:  1
+Process with arrival:  2  and burst:  1
+Process with arrival:  9  and burst:  2
+Process with arrival:  10  and burst:  10
+Process with arrival:  9  and burst:  5
+Process with arrival:  7  and burst:  8
+Process with arrival:  5  and burst:  4
+Process with arrival:  3  and burst:  5
+Process with arrival:  6  and burst:  2
+Process with arrival:  2  and burst:  10
+Process with arrival:  9  and burst:  1
+Process with arrival:  9  and burst:  10
+Process with arrival:  3  and burst:  6
+Process with arrival:  2  and burst:  5
+Process with arrival:  0  and burst:  6
+Process with arrival:  1  and burst:  7
+Process with arrival:  10  and burst:  1
+Process with arrival:  7  and burst:  2
+Process with arrival:  3  and burst:  8
+Process with arrival:  0  and burst:  8
+Process with arrival:  10  and burst:  9
+Process with arrival:  7  and burst:  10
+Process with arrival:  4  and burst:  4
+Process with arrival:  3  and burst:  8
+
+
+Average FCFS waiting time:  133.28
+
+Average SJF waiting time:  91.66
+
+Average FCFS and SJF burst time:  5.68
+
+100 processes with arrival time from 0 to 10 and burst from 1 to to 10
+
+
+Processes:
+
+Process with arrival:  3  and burst:  3
+Process with arrival:  5  and burst:  1
+Process with arrival:  3  and burst:  10
+Process with arrival:  6  and burst:  3
+Process with arrival:  9  and burst:  6
+Process with arrival:  3  and burst:  6
+Process with arrival:  7  and burst:  10
+Process with arrival:  10  and burst:  6
+Process with arrival:  7  and burst:  9
+Process with arrival:  1  and burst:  4
+Process with arrival:  4  and burst:  10
+Process with arrival:  6  and burst:  1
+Process with arrival:  4  and burst:  1
+Process with arrival:  3  and burst:  7
+Process with arrival:  4  and burst:  6
+Process with arrival:  4  and burst:  1
+Process with arrival:  4  and burst:  10
+Process with arrival:  4  and burst:  3
+Process with arrival:  4  and burst:  7
+Process with arrival:  9  and burst:  4
+Process with arrival:  5  and burst:  3
+Process with arrival:  5  and burst:  2
+Process with arrival:  9  and burst:  8
+Process with arrival:  6  and burst:  4
+Process with arrival:  10  and burst:  8
+Process with arrival:  8  and burst:  1
+Process with arrival:  6  and burst:  1
+Process with arrival:  4  and burst:  3
+Process with arrival:  5  and burst:  10
+Process with arrival:  4  and burst:  8
+Process with arrival:  10  and burst:  4
+Process with arrival:  9  and burst:  6
+Process with arrival:  3  and burst:  3
+Process with arrival:  4  and burst:  8
+Process with arrival:  10  and burst:  9
+Process with arrival:  7  and burst:  7
+Process with arrival:  2  and burst:  7
+Process with arrival:  3  and burst:  6
+Process with arrival:  1  and burst:  2
+Process with arrival:  2  and burst:  7
+Process with arrival:  8  and burst:  10
+Process with arrival:  6  and burst:  7
+Process with arrival:  2  and burst:  6
+Process with arrival:  8  and burst:  5
+Process with arrival:  0  and burst:  8
+Process with arrival:  5  and burst:  6
+Process with arrival:  2  and burst:  9
+Process with arrival:  2  and burst:  7
+Process with arrival:  0  and burst:  7
+Process with arrival:  0  and burst:  2
+Process with arrival:  10  and burst:  2
+Process with arrival:  8  and burst:  2
+Process with arrival:  7  and burst:  4
+Process with arrival:  1  and burst:  3
+Process with arrival:  3  and burst:  10
+Process with arrival:  0  and burst:  2
+Process with arrival:  5  and burst:  3
+Process with arrival:  7  and burst:  5
+Process with arrival:  9  and burst:  1
+Process with arrival:  8  and burst:  1
+Process with arrival:  9  and burst:  2
+Process with arrival:  6  and burst:  1
+Process with arrival:  6  and burst:  4
+Process with arrival:  7  and burst:  2
+Process with arrival:  6  and burst:  8
+Process with arrival:  8  and burst:  2
+Process with arrival:  3  and burst:  9
+Process with arrival:  6  and burst:  10
+Process with arrival:  10  and burst:  9
+Process with arrival:  1  and burst:  3
+Process with arrival:  9  and burst:  8
+Process with arrival:  5  and burst:  4
+Process with arrival:  6  and burst:  2
+Process with arrival:  7  and burst:  9
+Process with arrival:  7  and burst:  7
+Process with arrival:  0  and burst:  2
+Process with arrival:  9  and burst:  3
+Process with arrival:  1  and burst:  2
+Process with arrival:  5  and burst:  6
+Process with arrival:  3  and burst:  3
+Process with arrival:  7  and burst:  2
+Process with arrival:  1  and burst:  10
+Process with arrival:  1  and burst:  2
+Process with arrival:  9  and burst:  2
+Process with arrival:  0  and burst:  9
+Process with arrival:  8  and burst:  6
+Process with arrival:  10  and burst:  9
+Process with arrival:  5  and burst:  2
+Process with arrival:  1  and burst:  6
+Process with arrival:  8  and burst:  10
+Process with arrival:  1  and burst:  2
+Process with arrival:  4  and burst:  10
+Process with arrival:  1  and burst:  7
+Process with arrival:  3  and burst:  3
+Process with arrival:  1  and burst:  3
+Process with arrival:  8  and burst:  4
+Process with arrival:  4  and burst:  9
+Process with arrival:  4  and burst:  10
+Process with arrival:  5  and burst:  3
+Process with arrival:  1  and burst:  2
+
+
+Average FCFS waiting time:  251.55
+
+Average SJF waiting time:  167.1
+
+Average FCFS and SJF burst time:  5.22
+
+10 processes with arrival time from 0 to 100 and burst from 1 to to 100
+
+Processes:
+
+Process with arrival:  27  and burst:  94
+Process with arrival:  99  and burst:  6
+Process with arrival:  52  and burst:  43
+Process with arrival:  2  and burst:  98
+Process with arrival:  80  and burst:  23
+Process with arrival:  26  and burst:  61
+Process with arrival:  53  and burst:  26
+Process with arrival:  40  and burst:  61
+Process with arrival:  54  and burst:  13
+Process with arrival:  47  and burst:  82
+
+
+Average FCFS waiting time:  264.3
+
+Average SJF waiting time:  138.8
+
+Average FCFS and SJF burst time:  50.7
+
+50 processes with arrival time from 0 to 100 and burst from 1 to to 100
+
+Processes:
+
+Process with arrival:  1  and burst:  59
+Process with arrival:  0  and burst:  45
+Process with arrival:  7  and burst:  81
+Process with arrival:  8  and burst:  21
+Process with arrival:  10  and burst:  43
+Process with arrival:  9  and burst:  57
+Process with arrival:  4  and burst:  100
+Process with arrival:  9  and burst:  54
+Process with arrival:  10  and burst:  74
+Process with arrival:  9  and burst:  34
+Process with arrival:  10  and burst:  61
+Process with arrival:  0  and burst:  74
+Process with arrival:  6  and burst:  46
+Process with arrival:  4  and burst:  58
+Process with arrival:  7  and burst:  71
+Process with arrival:  9  and burst:  83
+Process with arrival:  0  and burst:  52
+Process with arrival:  5  and burst:  74
+Process with arrival:  10  and burst:  70
+Process with arrival:  4  and burst:  97
+Process with arrival:  8  and burst:  81
+Process with arrival:  5  and burst:  97
+Process with arrival:  8  and burst:  21
+Process with arrival:  6  and burst:  55
+Process with arrival:  0  and burst:  95
+Process with arrival:  6  and burst:  72
+Process with arrival:  4  and burst:  69
+Process with arrival:  2  and burst:  2
+Process with arrival:  10  and burst:  71
+Process with arrival:  0  and burst:  46
+Process with arrival:  1  and burst:  12
+Process with arrival:  0  and burst:  38
+Process with arrival:  2  and burst:  85
+Process with arrival:  3  and burst:  93
+Process with arrival:  3  and burst:  88
+Process with arrival:  6  and burst:  94
+Process with arrival:  2  and burst:  53
+Process with arrival:  6  and burst:  40
+Process with arrival:  9  and burst:  14
+Process with arrival:  5  and burst:  31
+Process with arrival:  2  and burst:  69
+Process with arrival:  0  and burst:  32
+Process with arrival:  2  and burst:  74
+Process with arrival:  7  and burst:  78
+Process with arrival:  4  and burst:  63
+Process with arrival:  5  and burst:  45
+Process with arrival:  2  and burst:  63
+Process with arrival:  9  and burst:  91
+Process with arrival:  0  and burst:  10
+Process with arrival:  10  and burst:  7
+
+
+Average FCFS waiting time:  1432.48
+
+Average SJF waiting time:  1067.52
+
+Average FCFS and SJF burst time:  58.86
+
+100 processes with arrival time from 0 to 100 and burst from 1 to to 100
+
+Processes:
+
+Process with arrival:  37  and burst:  73
+Process with arrival:  4  and burst:  50
+Process with arrival:  79  and burst:  12
+Process with arrival:  40  and burst:  54
+Process with arrival:  67  and burst:  13
+Process with arrival:  94  and burst:  25
+Process with arrival:  78  and burst:  11
+Process with arrival:  38  and burst:  47
+Process with arrival:  28  and burst:  16
+Process with arrival:  62  and burst:  85
+Process with arrival:  15  and burst:  46
+Process with arrival:  30  and burst:  89
+Process with arrival:  13  and burst:  57
+Process with arrival:  19  and burst:  9
+Process with arrival:  75  and burst:  94
+Process with arrival:  46  and burst:  34
+Process with arrival:  31  and burst:  60
+Process with arrival:  25  and burst:  56
+Process with arrival:  10  and burst:  90
+Process with arrival:  70  and burst:  32
+Process with arrival:  3  and burst:  14
+Process with arrival:  90  and burst:  15
+Process with arrival:  16  and burst:  60
+Process with arrival:  40  and burst:  88
+Process with arrival:  19  and burst:  61
+Process with arrival:  4  and burst:  100
+Process with arrival:  64  and burst:  54
+Process with arrival:  33  and burst:  61
+Process with arrival:  11  and burst:  86
+Process with arrival:  63  and burst:  92
+Process with arrival:  52  and burst:  6
+Process with arrival:  46  and burst:  57
+Process with arrival:  65  and burst:  40
+Process with arrival:  58  and burst:  76
+Process with arrival:  69  and burst:  38
+Process with arrival:  58  and burst:  55
+Process with arrival:  26  and burst:  82
+Process with arrival:  27  and burst:  26
+Process with arrival:  35  and burst:  88
+Process with arrival:  22  and burst:  74
+Process with arrival:  86  and burst:  25
+Process with arrival:  45  and burst:  25
+Process with arrival:  91  and burst:  26
+Process with arrival:  91  and burst:  45
+Process with arrival:  98  and burst:  86
+Process with arrival:  38  and burst:  1
+Process with arrival:  11  and burst:  20
+Process with arrival:  42  and burst:  42
+Process with arrival:  26  and burst:  2
+Process with arrival:  63  and burst:  59
+Process with arrival:  13  and burst:  29
+Process with arrival:  94  and burst:  55
+Process with arrival:  39  and burst:  52
+Process with arrival:  88  and burst:  4
+Process with arrival:  69  and burst:  69
+Process with arrival:  25  and burst:  46
+Process with arrival:  16  and burst:  56
+Process with arrival:  40  and burst:  19
+Process with arrival:  2  and burst:  26
+Process with arrival:  7  and burst:  30
+Process with arrival:  82  and burst:  69
+Process with arrival:  50  and burst:  45
+Process with arrival:  62  and burst:  95
+Process with arrival:  68  and burst:  33
+Process with arrival:  98  and burst:  16
+Process with arrival:  47  and burst:  20
+Process with arrival:  78  and burst:  63
+Process with arrival:  86  and burst:  64
+Process with arrival:  6  and burst:  97
+Process with arrival:  96  and burst:  2
+Process with arrival:  90  and burst:  30
+Process with arrival:  69  and burst:  8
+Process with arrival:  42  and burst:  12
+Process with arrival:  37  and burst:  85
+Process with arrival:  33  and burst:  50
+Process with arrival:  43  and burst:  88
+Process with arrival:  25  and burst:  60
+Process with arrival:  6  and burst:  24
+Process with arrival:  6  and burst:  20
+Process with arrival:  2  and burst:  93
+Process with arrival:  41  and burst:  31
+Process with arrival:  35  and burst:  52
+Process with arrival:  3  and burst:  39
+Process with arrival:  82  and burst:  37
+Process with arrival:  71  and burst:  8
+Process with arrival:  43  and burst:  88
+Process with arrival:  60  and burst:  100
+Process with arrival:  90  and burst:  18
+Process with arrival:  66  and burst:  45
+Process with arrival:  76  and burst:  18
+Process with arrival:  83  and burst:  55
+Process with arrival:  70  and burst:  71
+Process with arrival:  15  and burst:  67
+Process with arrival:  17  and burst:  75
+Process with arrival:  10  and burst:  51
+Process with arrival:  29  and burst:  49
+Process with arrival:  31  and burst:  11
+Process with arrival:  61  and burst:  92
+Process with arrival:  31  and burst:  38
+Process with arrival:  13  and burst:  15
+
+
+Average FCFS waiting time:  2452.47
+
+Average SJF waiting time:  1517.16
+
+Average FCFS and SJF burst time:  47.77
+
+Process finished with exit code 0
