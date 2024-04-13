@@ -1,8 +1,8 @@
 from Frame import Frame
 
-def FIFO(pages, n):
+def FIFO(num_frames, pages):
     page_errors = 0
-    frames = [Frame() for _ in range(n)]
+    frames = [Frame(_) for _ in range(num_frames)]
 
     for page in pages:
         page_found = False
@@ -11,17 +11,14 @@ def FIFO(pages, n):
                 page_found = True
                 break
         if not page_found:
-            oldest_frame_index = min(range(n), key=lambda i: frames[i].index)
+            oldest_frame_index = min(range(num_frames), key=lambda i: frames[i].index)
             frames[oldest_frame_index].page = page
             frames[oldest_frame_index].index = max(frame.index for frame in frames) + 1
 
             page_errors += 1
 
-        print([frame.page for frame in frames])
+        #print([frame.page for frame in frames])
+
     return page_errors
 
-if __name__ == "__main__":
-    pages = [1, 2, 3, 4, 1, 2, 5, 1, 2, 3, 4, 5]
-    n = 3
-    errors = FIFO(pages, n)
-    print(f"Total page faults: {errors}")
+
